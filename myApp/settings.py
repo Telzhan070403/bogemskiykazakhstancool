@@ -122,7 +122,7 @@ EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 
 
-STATIC_ROOT = os.path.join(BASE_DIR, 'static'),
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles'),
 
 STATICFILES_DIRS = []
 
